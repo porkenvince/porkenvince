@@ -1,4 +1,4 @@
-# EDM-Portfolio - Patchak Supee
+# EDM-Portfolio
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 # About Me
 My name is Vince Aubrey C. Ferrer
