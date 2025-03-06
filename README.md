@@ -7,5 +7,4 @@ My name is Vince Aubrey C. Ferrer
 - HIgh School: Angeles City National Highschool
 - Elementary: Lourdes Northwest Elementary School
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
+- Midterm Lab Task 1: [Data Cleaning and Preparation](Midterm%20Task%201/README.md)
