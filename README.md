@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**porkenvince/porkenvince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# EDM-Portfolio - Patchak Supee
+This portfolio will contain copies of my Enterprise Data Management Lab Exercises
+# About Me
+My name is Vince Aubrey C. Ferrer
+# Education
+- College: City College of Angeles
+- HIgh School: Angeles City National Highschool
+- Elementary: Lourdes Northwest Elementary School
+# My Projects
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
