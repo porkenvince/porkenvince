@@ -14,5 +14,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
 [screenshot]()
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
+![Sample Output](IMAGES/Capture.PNG)
 ## Here's the Physical Data Model
